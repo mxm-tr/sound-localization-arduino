@@ -1,0 +1,3 @@
+[submodule "hardware/board/external-libs/RoboUlbricht"]
+	path = hardware/board/external-libs/RoboUlbricht
+	url = https://github.com/RoboUlbricht/kicad.lib.git
